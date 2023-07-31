@@ -12,7 +12,7 @@ source_link = "https://github.com/B4-MANIFESTO"
 
 
 team = ["Elyess Eleuch", "Dennis Bröcker", "Martin Staats", "Nils Rausch", "Stepan Burlachenko"]
-supervisor = "Prof. Dr. Regina Friess und Alexander Kramer,  in collaboration with Marc Sinan Company "
+supervisor = "Prof. Dr. Regina Friess und Alexander Kramer,  in collaboration with Marc Sinan Company"
 +++
 
 Manifesto is an interactive installation that is designed and developed in a way that the **camera-enabled motion sensors** act as the starting point of a complex pipeline consisting of multiple interfaces. The activity of the event visitors is monitored, analyzed and subsequently translated into sounds produced by an organ. The project is to be presented and executed simultaneously in multiple locations statewide and is dedicated to the victims of the National Socialist Underground murders. The main event is to take place in the St Martin's Church in Kassel.
