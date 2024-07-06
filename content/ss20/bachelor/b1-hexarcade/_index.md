@@ -22,10 +22,6 @@ Der Grundgedanke dieses Projektes ist es, diesem Umstand entgegenzuwirken und mi
 Deshalb war es unser Ziel, ein Spiel zu entwickeln, das jederzeit und in kurzen Sessions gespielt und so diese Fähigkeiten Schritt für Schritt wieder trainiert werden können. Das Endprodukt was dabei entstanden ist, heißt *HexArcade*.
 {{</section>}}
 
-{{<quote source="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote" caption="MDN web docs">}}
-The HTML blockquote Element (or HTML Block Quotation Element) indicates that the enclosed text is an extended quotation.
-{{</quote>}}
-
 {{<section title="Was ist HexArcade?">}}
 *HexArcade* ist ein in Unity aufgebautes Mobile-Game, in dem der Spieler versucht, durch Kippen des Smartphones, einen Ball über ein Feld aus Hexagonen zu steuern. Es gibt jedoch nur einen korrekten Weg, um von Start- zum Zielpunkt zu gelangen. Zu Beginn leuchtet dieser Weg kurz auf und der Spieler muss versuchen, sich den Pfad so gut wie möglich in dieser Zeit zu merken. Es ist Konzentration und Geschick gefragt, um den Ball dann so schnell wie möglich ins Ziel zu bringen, vor allem weil genügend Hindernisse auf dem Weg liegen können ...
 {{</section >}}
