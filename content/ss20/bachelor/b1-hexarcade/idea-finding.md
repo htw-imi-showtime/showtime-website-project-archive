@@ -3,17 +3,17 @@ title = "Ideenfindung"
 weight = 2
 +++
 
-Zu Beginn des Projektes, hatten wir noch keine klare Idee von dem Thema ***Motorik und Konzentration*** und wie wir ein dazu passendes Spiel bauen könnten. Deshalb lag unser Fokus am Anfang stark auf der Recherche zu diesem Thema, bevor wir begonnen haben Spieleideen zu sammeln.
+Zu Beginn des Projekts hatten wir noch keine klare Idee von dem Thema ***Motorik und Konzentration*** und wie wir ein dazu passendes Spiel bauen könnten. Deshalb lag unser Fokus am Anfang stark auf der Recherche zu diesem Thema, bevor wir begonnen haben Spielideen zu sammeln.
 
 {{<section title="Recherche">}}
-Wir hatten uns bereits früh darauf geeinigt, dass das Spiel auf Smartphones ausgerichtet sein soll. Aus diesem Grund haben wir uns explizit angesehen, was es bereits für Spiele auf diesen Geräten gibt, die in unsere Thematik passen könnten. Dabei haben wir uns mit verschiedenen Spieleelementen und -prinzipien beschäftigt und unsere Favoriten zusammengetragen. Hier ist eine Auswahl davon:
+Wir hatten uns bereits früh darauf geeinigt, dass das Spiel auf Smartphones ausgerichtet sein soll. Aus diesem Grund haben wir uns explizit angesehen, was es bereits für Spiele auf diesen Geräten gibt, die in unsere Thematik passen könnten. Dabei haben wir uns mit verschiedenen Spielelementen und -prinzipien beschäftigt und unsere Favoriten zusammengetragen. Hier ist eine Auswahl davon:
 
 * Ein Puzzle Game, wie [*Cut the Rope*](https://de.wikipedia.org/wiki/Cut_the_Rope), [*Where’s my Water*](https://en.wikipedia.org/wiki/Where%27s_My_Water%3Fkirby) oder [*Kirby: Canvas Curve*](https://en.wikipedia.org/wiki/Kirby:_Canvas_Curse).   
 Diese Spiele funktionieren prinzipiell so, dass die Spielfigur oder das Spielfeld mithilfe von Touchscreen-Eingaben gesteuert bzw. manipuliert werden, um die Level erfolgreich abzuschließen.
 * Die Nutzung des Accelerometers ([Beschleunigungssensor](https://de.wikipedia.org/wiki/Beschleunigungssensor)), der in jedem modernen Smartphone vorhanden ist, um z.B. eine Spielfigur durch Neigen des Gerätes zu steuern oder Aktionen, wie ein kurzes Schütteln, zu registrieren.
 * Das Einbinden des Gyroskopsensors ([Kreiselinstrument](https://de.wikipedia.org/wiki/Kreiselinstrument#Technische_Anwendungen)), für physikbasierte Herausforderungen und Puzzles.
 * Das Anzeigen von verschiedenen Mustern auf dem Bildschirm, die der Spieler nachzeichnen soll.
-* Ein Geschicklichkeitsspiel wie [*InkBall*](hhttps://de.wikipedia.org/wiki/InkBall). Hier rollt eine Kugel über ein 2D-Spielfeld und soll in farblich gekennzeichnete Löcher gelenkt werden. Die Farbe der Kugel verändert sich jedes Mal, wenn sie an einem der andersfarbigen Ränder abprallt. Der Ball wird gesteuert, indem der Spieler selbst, Wände auf dem Spielfeld einzeichnet.
+* Ein Geschicklichkeitsspiel wie [*InkBall*](https://de.wikipedia.org/wiki/InkBall). Hier rollt eine Kugel über ein 2D-Spielfeld und soll in farblich gekennzeichnete Löcher gelenkt werden. Die Farbe der Kugel verändert sich jedes Mal, wenn sie an einem der andersfarbigen Ränder abprallt. Der Ball wird gesteuert, indem der Spieler selbst Wände auf dem Spielfeld einzeichnet.
 * Ein Endless-Runner wie [*Temple-Run*](https://de.wikipedia.org/wiki/Temple_Run), jedoch langsamer und mit einem festem Levelaufbau.   
 {{</section>}}
 
