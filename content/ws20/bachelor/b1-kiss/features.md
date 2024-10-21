@@ -6,7 +6,7 @@ weight = 1
 {{<image src="Overview_features.png" alt="Mockup" >}}
 {{<section title="Feature set" >}}
 #### Offline Data
-Our app is completely offline compatible
+Our app is completely offline compatible.
 We have **over 30.000 ingredients** stored in our data set.
 It was important for us to guarantee that the user is always able to use the app. Therefore we didn't want to rely on an internet connection.
 
