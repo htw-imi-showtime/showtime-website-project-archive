@@ -16,14 +16,14 @@ Next up is our **Photo Editor**. During your time strolling around, you might wa
 With the help of our powerful photo editor you are able to make every picture you've taken shine. You can adjust **contrast, brightness, crop or use filters**! 
 
 ## Questionnaire
-Strollr is **aimed** especially at **kids at school age**, to deliver an **additional form** of interaction for them **to engage with the environment**. 
-That is why we have implemented the **questionnaire feature**! Here children are able to **note what they know** **about** a certain **plant or animal**, 
+Strollr is **aimed** especially at **kids of school age**, to deliver an **additional form** of interaction for them **to engage with the environment**. 
+That is why we have implemented the **questionnaire feature**! Here, children are able to **note what they know** **about** a certain **plant or animal**, 
 thus there is the option to **take notes** and **write down questions that** they can **discuss with teachers or parents** later on.
 
 ## Herbarium
-The **Gallery** is the next big feature of Strollr. Here you are able to **revisit** your **pictures** and remember the **tracks** you were on! Below the photo, you can see crucial information to your subject! 
-So every **information you provide**, is **saved** and there for you to **edit afterwards**!
+The **Gallery** is the next big feature of Strollr. Here, you are able to **revisit** your **pictures** and remember the **tracks** you were on! Below the photo, you can see crucial information to your subject! 
+So every piece of **information you provide** is **saved** and there for you to **edit afterward**!
 
 ## Statistics
-We also provide information on your current **statistics** like **walked kilometers** and **time spent** for strolling around.
+We also provide information on your current **statistics**, like **walked kilometers** and **time spent** for strolling around.
 {{</section>}}

@@ -17,7 +17,7 @@ plug-ins for **social media** platforms like WhatsApp, Instagram or Facebook.
 This platform could include a shared map where pins indicate the starting point of shared strolls. On click, you could be forwarded to the overview of the stroll, where the tracked walk and information about the stroll are displayed. 
 Maybe you just want to **go through the pictures the other user made throughout their stroll** (of course you can like and comment) or even solve some riddles yourself. 
 
-Since Strollr’s original idea is to capture the stroll via pictures and learn something new about the environment, the option to **help others to find out what plant, tree or animal they managed to find** along the way is vital. 
+Since Strollr’s original idea is to capture the stroll via pictures and learn something new about the environment, the option to **help others find out what plant, tree or animal they managed to find** along the way is vital. 
 Therefore, the sharing user could send out a request in a provided category and other users could share their guesses. 
 
 _So get inspired and start your own stroll._
