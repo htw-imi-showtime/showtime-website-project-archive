@@ -11,7 +11,7 @@ To help players understand which of the **'player-dots'** they represent on the 
 
 
 #### Join-Requests
-After choosing a player name and clicking 'Join Game' on the start screen, users can **scan for existing games and request to join** one. After having been approved, the player will be see the game screen as soon as the host starts the game.
+After choosing a player name and clicking 'Join Game' on the start screen, users can **scan for existing games and request to join** one. After having been approved, the player will see the game screen as soon as the host starts the game.
 {{</section>}}
 {{<image src="client-flow.svg" alt="client user flow" >}}
 
@@ -47,7 +47,7 @@ The first step is the **distance calculation** between the different players. Th
 
 {{<section title="2. Position Estimation">}}
 
-After the distances between all players are known, the player positions can be calculated. Only **relative positions** can be calculated from the distances. This means that the resulting triangle can be transformed by translation, rotation or reflection and would still match all the distances (**congruence**).
+After the distances between all players are known, the player positions can be calculated. Only **relative positions** can be calculated from the distances. This means that the resulting triangle can be transformed by translation, rotation or reflection and still match all the distances (**congruence**).
 
 {{<image src="distance-to-position-1.svg" alt="Step 1 distances to positions" >}}
 
@@ -64,21 +64,21 @@ Player A is positioned at the origin of the coordinate system. Player B is posit
 
 {{<image src="distance-to-position-3.svg" alt="Step 3 distances to positions" >}}
 
-Finally, the alpha angle can be calculated using the law of cosines. This in turn can be used to determine the x and y position of player C. 
+Finally, the alpha angle can be calculated using the law of cosines. This, in turn, can be used to determine the x and y position of player C. 
 
 {{</section>}}
 
 
 {{<section title="3. Shape Alignment">}}
-As the calculated player positions are **relative**, they need to be aligned to the target shape. As soon as the players' positions and the positions of the target shape have the same distances between them, the shapes have to lie perfectly **on top of each other**.  This is done in three steps:
+As the calculated player positions are **relative**, they need to be aligned to the target shape. As soon as the players' positions and the positions of the target shape have the same distance between them, the shapes have to lie perfectly **on top of each other**.  This is done in three steps:
 
 
 {{<image src="step-1.svg" alt="Step 1 Shape Alignment" >}}
-At first the position of player A is always **translated** to the 'first' point of the target shape (Step 1). 
+At first, the position of player A is always **translated** to the 'first' point of the target shape (Step 1). 
 
 {{<image src="step-2-3.svg" alt="Step 2 and 3 Shape Alignment" >}}
 
-In Step 2 the player shape is **rotated** so that the corresponding sides of the target and the player shape are parallel. 
+In Step 2, the player shape is **rotated** so that the corresponding sides of the target and the player shape are parallel. 
 
 Finally, both shapes are **centered** independently on the game screen.  
 {{</section>}}
@@ -86,7 +86,7 @@ Finally, both shapes are **centered** independently on the game screen.
 {{<section title="Bluetooth Connection & Sending of Data">}}
 **Bluetooth Low Energy (BLE)** is the foundation of GeZuMi. Throughout the app, the connection relies on a **broadcasting approach** that avoids having to pair all devices with each other, which would make the connection unstable, and a **client-server-communication** between clients and the host of the game.
 
-Clients that have joined a game make themselves noticeable to other players via broadcasting and communicate with the host which provides updates of the game state. The **Bluetooth packages** that are broadcast by every player contain a game-specific identifier and some game data to be processed by all other players. Using the **8-byte-game-identifier** games running simultaneously at the same place can be differentiated. Through slight variations of the ID, devices can determine wether another device is a host or a client which is necessary for a consistent join process. Other **game data** included in these packages are a **custom device identifier** which is unique per device, a device name, the game name, and the device-specific transmission power value, for example. Due to the very limited size of the broadcast packages (around 20-25 bytes available for custom data), they could only contain the most important bits of information, and some **filtering mechanisms** had to be built in order to maximize the packages' utility.
+Clients that have joined a game make themselves noticeable to other players via broadcasting and communicate with the host, which provides updates on the game state. The **Bluetooth packages** that are broadcast by every player contain a game-specific identifier and some game data to be processed by all other players. Using the **8-byte-game-identifier** games running simultaneously at the same place can be differentiated. Through slight variations of the ID, devices can determine whether another device is a host or a client, which is necessary for a consistent join process. Other **game data** included in these packages are a **custom device identifier**, which is unique per device, a device name, the game name, and the device-specific transmission power value, for example. Due to the very limited size of the broadcast packages (around 20-25 bytes available for custom data), they could only contain the most important bits of information, and some **filtering mechanisms** had to be built in order to maximize the packages' utility.
 
 The broadcast packages can be received by other devices scanning the environment. This enables them to measure and calculate the distance to other players. Using direct client-server-connection, every client sends the measured and processed data to the **host device** which **collects, joins and corrects all the data**. The host is responsible for **computing a valid game state** (i.e. the positions of all players) and providing consistent game data to the clients. Clients and server communicate via the **ATT (Attribute Protocol)** data protocol. The host runs a **game service** that contains **characteristics**. The service as well as its characteristics are addressed using predefined 128-bit-UUIDs. The characteristics can be used by the clients for reading or writing data. The host is able to **notify** clients that have subscribed to a certain characteristic. The data is written in a serialized manner because of the limited number of bytes that can be transferred via a characteristic.
 

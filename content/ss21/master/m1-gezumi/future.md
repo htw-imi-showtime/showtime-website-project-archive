@@ -17,6 +17,6 @@ Ideally, with an improvement in distance and position calculation, **more than t
 #### Gamification
 In the future, more gamification features will be included in the game. To incentivize more games, overall **highscore lists** are planned. This would allow players to compare their own group with the skills and speed of others and, hopefully, increase the team's motivation.
 
-Different types of **levels or game modes** are also in planning. One version would be to have a **predefined game time**, of 60 seconds for example, with the objective of matching **as many target shapes as possible**. Another alternative is the '**blind mode**'. In this game mode, only one player would see the target shape. They then need to quickly and clearly direct their teammates to their target positions.
+Different types of **levels or game modes** are also in planning. One version would be to have a **predefined game time**, for example of 60 seconds, with the objective of matching **as many target shapes as possible**. Another alternative is the '**blind mode**'. In this game mode, only one player would see the target shape. They then need to quickly and clearly direct their teammates to their target positions.
 
 {{</section>}}
