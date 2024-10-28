@@ -29,7 +29,7 @@ To create the game, two steps are required.
  
 1. **Host:** Open the browser on your computer, laptop or SmartTV and visit http://themole.ml. Click on "Create game" to start a new game session. Now you can see the game lobby and the players that have joined. Once all players are present, click on "Start game".
  
-2. **Players:** If the game lobby is open on your computer, laptop or SmartTV, players can enter. To do this, scan the QR code or visit http://scotlandyard.ml.
+2. **Players:** If the game lobby is open on your computer, laptop or SmartTV, players can enter. To do this, scan the QR code.
 {{</section >}}
 
 {{<image src="create_and_join_game.png" alt="create and join game screens" caption="The screens when creating and joining a game">}}
@@ -50,7 +50,7 @@ At the start of the game, players are randomly assigned different clues. There a
 {{<section title="The Map">}}
 Once the game is started, a map and other game-related information appear on your computer, laptop or SmartTV. There are **four map sections in total, each with around 20 fields**. The fields are connected to each other and show the path you have to complete. When you reach the end of a map, you'll automatically move on to the next section, provided it's not the last one.
  
-On the board game map there are **three types of fields**: "normal fields" (white), "occasion fields" (grey) which can trigger an event on your smartphone and "minigame fields" (blue) which offer you a shortcut, if you manage to win the minigame. On an **"occasion field"**, the player must choose one from two occasions. There are five occasions in total, three of which are positive and two negative. The **"minigame field"** is always located at a shortcut. Crossing a minigame field, the detective team will always be stopped to play a minigame (so far: a pantomime game) and if the word is guessed correctly by the whole team, the team is allowed to take the shortcut. On a **"normal field"** nothing happens.
+On the board game map there are **three types of fields**: "normal fields" (white), "occasion fields" (grey) which can trigger an event on your smartphone and "minigame fields" (blue), which offer you a shortcut if you manage to win the minigame. On an **"occasion field"**, the player must choose one of two occasions. There are five occasions in total, three of which are positive and two negative. The **"minigame field"** is always located at a shortcut. Crossing a minigame field, the detective team will always be stopped to play a minigame (so far: a pantomime game) and if the word is guessed correctly by the whole team, the team is allowed to take the shortcut. On a **"normal field"** nothing happens.
 {{</section >}}
 
 {{<image src="maps.png" alt="The Map" caption="The four map sections">}}
@@ -81,7 +81,7 @@ Players take their turn one after the other. The following options are available
  
 **View role:** Here you can see your role. If you are the mole, then keep it secret and do not stand out.
  
-Click the button **"Show Clues"** to see all your clues. For each evidence category there are three correct clues that you have to find. If you have found all the clues of a category, you can verify them under "Send in Evidence".
+Click the button **"Show Clues"** to see all your clues. For each evidence category, there are three correct clues that you have to find. If you have found all the clues in a category, you can verify them under "Send in Evidence".
 {{</section >}}
 
 {{<image src="waiting_options_arrows.png" alt="Waiting options" caption="The available actions while waiting for your turn">}}
@@ -89,15 +89,15 @@ Click the button **"Show Clues"** to see all your clues. For each evidence categ
  
 **When it is your turn**, you will see a selection menu. Here you can choose between four options.
 
-**1. Roll the dice:** To advance on the map you can roll the dice and confirm the corresponding steps. For this you need a dice and a dicing disc. The game tells you how to roll the dice. If nothing special is shown to you, you roll the dice **normally** and enter the rolled number in the smartphone. If you see **hinder/easy** dice instead, you have to read exactly what to do. In both variants you have to use the dicing disc and try to hit the center. Then enter the area you landed in on your smartphone.
+**1. Roll the dice:** To advance on the map, you can roll the dice and confirm the corresponding steps. For this you need a dice and a dicing disc. The game tells you how to roll the dice. If nothing special is shown to you, you roll the dice **normally** and enter the rolled number in the smartphone. If you see **hinder/easy** dice instead, you have to read exactly what to do. In both variants, you have to use the dicing disc and try to hit the center. Then enter the area you landed in on your smartphone.
 
 {{<image src="dice.png" alt="Dice Variants" caption="The screen when it is your turn and the two options to roll the dice">}}
  
 **2. Search for clues:** One way to get clues is to look for clues on your turn. Here you roll the dice and if you roll a four, five or six, you will find a clue. If successful, confirm this on your smartphone.
  
-**3. Share clue:** Here you can share clues with other players to verify evidence faster. But be careful, don't always give your clues to the same person, because it could be the mole using them to work against the team.
+**3. Share clues:** Here, you can share clues with other players to verify evidence faster. But be careful, don't always give your clues to the same person, because it could be the mole using them to work against the team.
  
-**4. Verify proof:** If you have found all three clues of a category, you can secure a piece of evidence here. Remember, by the end of the game your team must have verified four pieces.
+**4. Verify proof:** If you have found all three clues in a category, you can secure a piece of evidence here. Remember, by the end of the game your team must have verified four pieces.
  
 If you have new messages or other important information, you will be notified by a popup window on your smartphone.
 
@@ -106,5 +106,5 @@ If you have new messages or other important information, you will be notified by
 
 
 {{<section title="Adaptive Music">}}
-A further **possibility of digital technology** in a board game we wanted to experiment with, is **the use of adaptive music**. It can be used to set the **atmosphere**, add to the **excitment of events** in the game, and with that create a more **immersive experience**. In The Mole, the background music we produced reacts to the progress and events of the game. The **closer the team is to getting caught**, the **more intense** the music gets, blending between **different layers of tracks**. Changes, events and sound effects are **synhronized to the music**.
+A further **possibility of digital technology** in a board game we wanted to experiment with, is **the use of adaptive music**. It can be used to set the **atmosphere**, add to the **excitement of events** in the game, and with that create a more **immersive experience**. In The Mole, the background music we produced reacts to the progress and events of the game. The **closer the team is to getting caught**, the **more intense** the music gets, blending between **different layers of tracks**. Changes, events and sound effects are **synchronized to the music**.
 {{</section >}}
