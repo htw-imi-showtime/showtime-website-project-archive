@@ -49,7 +49,7 @@ default portrait https://www.pngitem.com/download/ixJxJh_default-profile-picture
 
 discord logo https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg
 
-miro logo https://brandfetch.com/miro.com/brand/id1rEl70oX
+miro logo https://brandfetch.com/miro.com
 
 unity logo https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png?20150903192614
 
