@@ -14,5 +14,5 @@ In order to create a balanced gaming experience, we adapted the mini-games to th
 After collecting the game ideas and dividing the mini-games into four categories, we started developing the games.
 Since some already had experience with Unity, the first prototypes were built to illustrate. The group members with less experience first familiarized themselves with the development environment and initially built small test objects.
 
-After we all got used to it, the games were implemented one after the other and simultaneously with everyone participating. A framework was created to structure the project. We also used this framework to regulate basic functions such as starting and pausing the entire game.
+After we all got used to it, the games were implemented one after the other and simultaneously, with everyone participating. A framework was created to structure the project. We also used this framework to regulate basic functions such as starting and pausing the entire game.
 {{</section>}}

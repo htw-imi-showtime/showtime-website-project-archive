@@ -17,8 +17,8 @@ In the future, we have some exciting plans in store! Our commitment to continuou
 
 - **More Games:** The more the better! A various collection enhances the overall experience.
 - **Multiplayer Support:** Where you can engage in thrilling gameplay with and against other players.
-- **Mechanic Modifiers:** For the motivated who are not fully occupied, there are some special events that make your gameplay spicy (e.g. mirrored controlls, enhanced button sequence, upside down visuals).
+- **Mechanic Modifiers:** For the motivated who are not fully occupied, there are some special events that make your gameplay spicy (e.g. mirrored controls, enhanced button sequence, upside down visuals).
 - **Accessibility Options:** Appeal to everybody! Regardless of their abilities or preferences.
-- **Especially important:** The innovative smart fridge version! Improve your skills even when cooking.
+- **Especially important:** The innovative smart fridge version! Improve your skills, even when cooking.
 
 {{</section>}}
