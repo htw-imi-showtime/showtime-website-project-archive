@@ -19,7 +19,7 @@ clone of the project archive ([https://github.com/htw-imi-showtime/showtime-webs
 
 ### Moving terms to the archive
 
-
+git checkout main
 
 ## The Mechanics
 
