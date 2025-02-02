@@ -1,5 +1,5 @@
 +++
-title = "Challanges"
+title = "Challenges"
 weight = 1
 +++
 

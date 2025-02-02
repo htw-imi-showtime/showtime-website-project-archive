@@ -19,7 +19,17 @@ clone of the project archive ([https://github.com/htw-imi-showtime/showtime-webs
 
 ### Moving terms to the archive
 
+```
 git checkout main
+mv content/ws23 project-archive/content
+cd project-archive
+git add .
+git commit -m "move ws23 to project archive"
+cd ..
+git add .
+git commit -m "move ws23 to project archive"
+
+```
 
 ## The Mechanics
 
