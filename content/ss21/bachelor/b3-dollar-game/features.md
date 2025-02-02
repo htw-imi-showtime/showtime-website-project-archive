@@ -27,13 +27,13 @@ weight = 1
 
 {{<section title="Assets and Animation" >}}
 
-- Self made and self animated, our assets give the game its flair. With our pixelated style and beautiful art, the game starts to shine: 14 different islands, 8 connecting rocks and multiple background drawings were created by our artists. And with a few lines of code, the animation brings the game to its lively state. Not only is our main menu equipped with an animated background, our islands and connections are too! With a simple click of the mouse, you see the islands that share their values wiggle in the sky.
+- Self-made and self-animated, our assets give the game its flair. With our pixelated style and beautiful art, the game starts to shine: 14 different islands, 8 connecting rocks and multiple background drawings were created by our artists. And with a few lines of code, the animation brings the game to its lively state. Not only is our main menu equipped with an animated background, our islands and connections are too! With a simple click of the mouse, you can see the islands that share their values wiggle in the sky.
 {{<image src="animations.gif" alt="Animation"  caption="Animated levels ">}}
 {{</section>}}
 
 {{<section title="Music" >}}
-- With our music and sound features, the player can enjoy atmospheric tunes while thinking about his next moves. Sound effects support the players actions and give audible notifications.
-- The player that prefers his own metal playlist for thinking can stop the music with two simple clicks in the sound menu.
+- With our music and sound features, the player can enjoy atmospheric tunes while thinking about his next moves. Sound effects support the player's actions and give audible notifications.
+- The player who prefers his own metal playlist for thinking can stop the music with two simple clicks in the sound menu.
 #### Credits for music
 <li> Credit for “Wanderlust” background music: <a href="https://chosic.com">chosic.com</a></li>
 <li>Credit for sound effects: <a href="https://mixkit.co/free-sound-effects/">mixkit.co/free-sound-effects/</a></li>

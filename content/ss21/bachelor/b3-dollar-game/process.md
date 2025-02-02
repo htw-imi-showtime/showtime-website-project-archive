@@ -11,7 +11,7 @@ SCRUM is a framework for agile development. It aims for faster project developme
 In cooperation with our supervisor Professor Dr. Jung, we were able to integrate SCRUM into our workflow, which highly improved our proficiency, work ethic and motivation.
 {{</section>}}
 {{<section title="Prototyping">}}
-In our first sprints, we created a prototype. A main menu, level menu and first level were made. It was a basis for our continued sprints and work, to add further features, improve existing necessities and pep up the assets and design.
+In our first sprints, we created a prototype. A main menu level menu and first level were made. It was the basis for our continued sprints and work to add further features, improve existing necessities and pep up the assets and design.
 {{<image src="protolevels.jpg" alt="Prototypes of game levels" caption="First game levels on paper">}}
 {{</section>}}
 {{<section title="Developement">}}
@@ -21,7 +21,7 @@ While we all worked a little bit on everything, we still divided into smaller gr
 Marie and Markus were focused on design. Felix and Laura worked on game mechanics and levels. Nadya, Linh and Muhammad found their passion and happiness in programming. 
 {{</section>}}
 {{<section title="Designing">}}
-For the design process, we needed to decide what type of assets and style we wanted to use. We searched for inspiration and quickly created multiple sketches of first ideas. After those initial steps, we decided on the pixel art style, since it's a common indie game aesthetic that we as gamers appreciate. With that it went onto the actual drawing process, where many of us learned new skills.
+For the design process, we needed to decide what type of assets and style we wanted to use. We searched for inspiration and quickly created multiple sketches of first ideas. After those initial steps, we decided on the pixel art style, since it's a common indie game aesthetic that we as gamers appreciate. With that, it went onto the actual drawing process, where many of us learned new skills.
 The logo was the last to be made, since we wanted a clear idea of our game, before creating such an important branding. Out of 16 options, we chose the simple text on islands, since it emphasises the general theme of our game.
 {{<image src="prototypes.jpg" alt="Prototypes of game assets" caption="Scetches of islands and connections between them">}}
 {{<image src="assetsproto.jpg" alt="Prototypes of digital game assets levels" caption="Prototypes of islands in different styles">}}
