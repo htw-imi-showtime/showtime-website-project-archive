@@ -27,7 +27,7 @@ Common with all modern technologies and tech stacks, using a newer approach inhe
 #### GitHub
 GitHub was used to **host** the code as well as for the **project management**.
 
-Using Github Actions a **CI/CD pipeline** was implemented.
+Using Github Actions, a **CI/CD pipeline** was implemented.
  It ensures a high code quality and builds an apk which is then released on Github.
 
 {{<image src="pipeline.svg" alt="CI Pipeline">}}

@@ -6,7 +6,7 @@ weight = 1
 {{<image src="team.png" alt="project image" caption="v.l.n.r: Adil, Daphna, Florian, John, Diro, Michael">}}
 
 {{<section title="Herausforderungen">}}
-Vor dem Projekt kannten wir uns noch nicht bzw. nur von Sehen her. Aufgrund der besonderen Schwierigkeiten dieses Semesters, konnten wir uns auch nicht persönlich treffen und uns so kennenlernen. Zusätzlich hatte die Hälfte von uns noch nie mit Unity, der Entwicklungsumgebung, mit der wir unser Spiel erstellen wollten, gearbeitet. Doch rückblickend müssen wir sagen, dass die Zusammenarbeit im Projekt trotz alledem sehr harmonisch und produktiv verlief.
+Vor dem Projekt kannten wir uns noch nicht bzw. nur vom Sehen her. Aufgrund der besonderen Schwierigkeiten dieses Semesters, konnten wir uns auch nicht persönlich treffen und uns so kennenlernen. Zusätzlich hatte die Hälfte von uns noch nie mit Unity, der Entwicklungsumgebung, mit der wir unser Spiel erstellen wollten, gearbeitet. Doch rückblickend müssen wir sagen, dass die Zusammenarbeit im Projekt trotz alledem sehr harmonisch und produktiv verlief.
 {{</section>}}
 
 {{<section title="Unsere Arbeitsweise">}}

@@ -9,7 +9,7 @@ weight = 3
 * <strong>Unreal Engine 5</strong><br>
 Unreal Engine 5 was our main tool.<br> We built our project and put all small parts together as one.
 * <strong>Steam</strong><br>
-We were able to play Could it be more Unreal? with Steam multiplayer using the Advanced Steam Sessions plugin.
+We were able to play "Could it be more Unreal?" with Steam multiplayer using the Advanced Steam Sessions plugin.
 * <strong>MetaHuman</strong><br>
 MetaHuman is a framework that enables anyone to create highly realistic human characters.
 {{</section>}}

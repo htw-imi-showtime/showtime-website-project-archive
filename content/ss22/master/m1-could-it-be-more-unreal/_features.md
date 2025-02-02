@@ -56,7 +56,7 @@ Lumen is Unreal Engine 5's fully dynamic global illumination and reflections sys
 {{</section>}}
 
 {{<section title="Nanite">}}
-Nanite is a new virtualized geometry system of Unreal Engine 5 which uses a new internal mesh format and rendering technology to render pixel scale detail and high object counts. It intelligently shows only human-perceivable details.
+Nanite is a new virtualized geometry system of Unreal Engine 5, which uses a new internal mesh format and rendering technology to render pixel scale detail and high object counts. It intelligently shows only human-perceivable details.
 {{<image src="nanite.png" caption="Nanite">}}
 {{</section>}}
 

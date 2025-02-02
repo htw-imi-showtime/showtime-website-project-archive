@@ -13,7 +13,7 @@ supervisor = "Prof. Dr. Tobias Lenz"
 +++
 
 {{<section title="Our Goal">}}
-Fast-pasted massively multiplayer online games have received a lot of recognition in recent years and have proven to be a successful and popular gaming concept, not least thanks to Fall Guys.
+Fast-pasted massively multiplayer online games have received a lot of recognition in recent years and have proven to be a successful and popular gaming concept, not the least thanks to Fall Guys.
 Considering this development, our goal was to create a fun multiplayer gaming experience that would easily be accessible to a large online community. 
 
 We chose an existing classic, [**Bubble Bobble**](https://de.wikipedia.org/wiki/Bubble_Bobble), and modernized it with a multiplayer component: 
@@ -77,12 +77,12 @@ We chose the Unity Game Engine as our main development tool, since it is one of 
 
 A key element of our project was a joint network component with the [**Hungry Games**](https://showtime.f4.htw-berlin.de/ws22/master/m2-mmo-hungrygames/) project. For network communication, we looked at two network libraries: [**Mirror**](https://mirror-networking.com/) and [**Photon**](https://www.photonengine.com/#). After evaluating the two libraries, we decided to use [**Mirror**](https://mirror-networking.com/), an open-source networking library for Unity, that best met our requirements.
 
-All custom assets for our game including the player, cave and bubble assets were created using Adobe Photoshop in combination with a graphics tablet. Animations were then implemented frame-based with the help of Unity's built-in Animation package.
+All custom assets for our game, including the player, cave and bubble assets, were created using Adobe Photoshop in combination with a graphics tablet. Animations were then implemented frame-based with the help of Unity's built-in Animation package.
 {{<image src="techstack.png" alt="Bubble Bobble Techstack" caption="Logos of Used Techstack">}}
 {{</section>}}
 
 {{<section title="Future">}}
-Potential enhancements of **Bubble Bobble reloaded** include additional features such as power-ups, more detailled animations and souds.
+Potential enhancements of **Bubble Bobble reloaded** include additional features such as power-ups, more detailed animations and sounds.
 To ensure a reliable gaming experience as the number of players grows, the game could also be extended by a stable, scalable, and large cloud infrastructure. 
 This would enable the creation of user accounts, allowing players to save their ingame data and progress in a database. 
 A cloud infrastructure would also allow for better scalability, as well as the ability to handle even larger amounts of players.

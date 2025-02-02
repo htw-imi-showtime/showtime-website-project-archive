@@ -20,7 +20,7 @@ The **mobile SDK Firebase ML Kit** provides **machine learning functionalities**
 
 #### Android Studio and IntelliJ
 Installing Flutter, setting up the IDE and the necessary emulators was **trickier than expected**:
-**Each team member** had to **fight** with some **issues** to get the tools running before we could start with the actual development. In the end, **half of our group** used **Android Studio** and the **others** went with **IntelliJ** but there aren't any differences in functionality.
+**Each team member** had to **fight** with some **issues** to get the tools running before we could start with the actual development. In the end, **half of our group** used **Android Studio** and the **others** went with **IntelliJ**, but there aren't any differences in functionality.
 
 {{</section>}}
 

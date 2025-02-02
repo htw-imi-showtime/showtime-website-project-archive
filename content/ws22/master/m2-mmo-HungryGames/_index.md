@@ -7,7 +7,6 @@ card_image = "Logo_Water_1000px.png"
 card_description = "“Hungry Games” is a Massively Multiplayer Online Game that offers the possibility to experience a Deathmatch-game adventure with up to 32 other players, thanks to a Scalable Generic Network Component. This massively multiplayer online game has a high speed and quickly develops a great feeling of chaos." 
 
 
-source_link = "https://github.com/m2-retro-mmo/Tierfresser"
 team = ["David Holz", "Hendrik Kiewitt", "Max Linke", "Rika Petersen"]
 supervisor = "Prof. Dr. Tobias Lenz"
 +++
@@ -43,10 +42,10 @@ In Hungry Games, the player takes on the role of an animal fighting for survival
 
 The MMO can be played with up to 32 players. The mirror networking library for Unity was used here. 
 
-The lobby is a waiting area for players to collect before starting a round, as late joining is deliberately prevented to give everyone a fair shot at winning. Players can ready up in the lobby leading to a countdown to start the round when everybody is ready. 
+The lobby is a waiting area for players to collect before starting a round, as late joining is deliberately prevented to give everyone a fair shot at winning. Players can ready up in the lobby, leading to a countdown to start the round when everybody is ready. 
 
 
-All maps are tile based and procedurally generated, with care taken to ensure that they are actually playable. In a first version Wave Function Collapse was used to generate the map based on a small input image. This approach worked but turned out to be not fast enough for the size of the map that was needed. For runtime reasons, a classical noise approach was adopted in the subsequent process. So in the End Perlin Noise was used to generate the base map, which was refined by detecting unreachable island regions and flood filling them with background tiles so as to remove them. In the game, upon starting a new round, the server picks a seed to generate the next map, which is then sent to all the clients who generate the same map locally. 
+All maps are tile based and procedurally generated, with care taken to ensure that they are actually playable. In a first version, Wave Function Collapse was used to generate the map based on a small input image. This approach worked but turned out to be not fast enough for the size of the map that was needed. For runtime reasons, a classical noise approach was adopted in the subsequent process. So in the End Perlin Noise was used to generate the base map, which was refined by detecting unreachable island regions and flood filling them with background tiles so as to remove them. In the game, upon starting a new round, the server picks a seed to generate the next map, which is then sent to all the clients who generate the same map locally. 
 
 {{<image src="HungryGamesMaps01.png" alt="Mockup" >}}
 
@@ -62,9 +61,9 @@ Various pick-ups and power-ups help players to survive and gain an upper hand in
 
 {{<image src="HungryGamesHidingspots.png" alt="Mockup" >}}
 
-If a lobby is not completely filled by human players, the remaining slots are filled by AI opponents. Their behavior has slight variations to break the monotony which would arise otherwise. Care was taken to not make the bots overpowering in their ability while still presenting a fun challenge.
+If a lobby is not completely filled by human players, the remaining slots are filled by AI opponents. Their behavior has slight variations to break the monotony which would arise otherwise. Care was taken to not make the bots overpowering in their ability, while still presenting a fun challenge.
 
-At the beginning, the player lands in the main menu from which they can start the game. In the lobby, they can give themselves a nickname and see which other players are joining the session. As soon as the game starts, the player has the opportunity to choose a game character from a menu. At the end of a game round, a scoreboard appears, providing a list of the game results.
+At the beginning, the player lands in the main menu, from which they can start the game. In the lobby, they can give themselves a nickname and see which other players are joining the session. As soon as the game starts, the player has the opportunity to choose a game character from a menu. At the end of a game round, a scoreboard appears, providing a list of the game results.
 
 The player HUD consists of various elements. On the one hand, there is a health indicator, which shows the current health status of the player. There is also another variable that is important for the course of the game, namely the player's saturation, which is also visualized via a HUD element. In the upper left corner of the screen, there is a timer that shows the player the remaining playing time. At the bottom of the screen in the middle, the player can see how many Ability Points they still have.
 

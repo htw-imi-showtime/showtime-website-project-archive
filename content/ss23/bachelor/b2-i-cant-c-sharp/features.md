@@ -9,7 +9,7 @@ weight = 1
 
 The game is divided into two segments. A single player mode where each of our simple games can be played separately from others. 
 
-In the endless mode you can play until you run out of hearts. In this mode two randomly selected games of matching genres are displayed in parallel, on the right and left side respectively, and can be played simultaneously. 
+In the endless mode, you can play until you run out of hearts. In this mode, two randomly selected games of matching genres are displayed in parallel, on the right and left side respectively, and can be played simultaneously. 
 
 {{<image src="Modus.png" caption="The skilled ones should start with the Parallel-Mode.">}}
 {{<image src="Ingame.png" caption="The Parallel-Mode in Action">}}
@@ -22,7 +22,7 @@ During our research and preparation for the project, we discovered four types of
 + Cognition, tests your ability to deduce information; 
 + Rhythm, tests your feel for the beat.
 
-By being virtually from different genres and requiring different kinds of attention, played in parallel they do require a certain amount of skills and a lots of concentration. With each additional game added to the roster, the chances for unexpected combinations and thus new challenge-ground for the mind arises.
+By being virtually from different genres and requiring different kinds of attention, played in parallel they do require a certain amount of skills and a lot of concentration. With each additional game added to the roster, the chances for unexpected combinations and thus new challenge-ground for the mind arises.
 
 {{<image src="Minigames.png" caption="Pick your challenge">}}
 
@@ -36,9 +36,9 @@ There are the classic modes easy, medium and hard, but also a new one we named v
 
 * **Scores and Times**
 
-What great game can do without high-scores, collecting points and a pressuring timer? Exactely! That´s why we have them, too. 
+What great game can do without high-scores, collecting points and a pressuring timer? Exactly! That´s why we have them, too. 
 
 But we used them for "scientific reasons". ;) <br>
-The points incentivise you to to stay engaged in playful testing of your concentration, while the high-scores indirectly show your progression and betterment of concentration, by constantly reaching higher values. The timer is a dreading sight at the beginning, but a great measuring Tools for your brain's endurance in the end. 
+The points incentivise you to stay engaged in playful testing of your concentration, while the high-scores indirectly show your progression and betterment of concentration, by constantly reaching higher values. The timer is a dreadful sight at the beginning, but a great measuring tool for your brain's endurance in the end. 
 {{<image src="Highscore3.png" caption="This is our scoreboard, where you can challenge your skills and friends ;)">}}
 {{</section>}}

@@ -14,12 +14,12 @@ team = ["Adil Altuner", "Daphna Beljavskij", "Diro Baloska", "Florian Murzov-Pir
 supervisor = "Prof. Dr. Tobias Lenz"
 +++
 
-Heutzutage prasseln auf den Menschen eine Vielzahl an verschiedensten Eindrücken ein. Eine Push Benachrichtigung hier, eine Mail dort, noch schnell auf die Nachricht antworten und dabei den Kaffee nicht verschütten, um dann frisch geduscht ins Zoom-Meeting zu kommen. Die konstante Überflutung unserer Reize und die wenige Zeit, die uns pro Tag zur Verfügung stehen sorgen dafür, dass es uns immer schwerer fällt, Dingen und Aufgaben unsere ungeteilte Aufmerksamkeit schenken zu können.
+Heutzutage prasseln auf den Menschen eine Vielzahl an verschiedensten Eindrücken ein. Eine Push Benachrichtigung hier, eine Mail dort, noch schnell auf die Nachricht antworten und dabei den Kaffee nicht verschütten, um dann frisch geduscht ins Zoom-Meeting zu kommen. Die konstante Überflutung unserer Reize und die wenige Zeit, die uns pro Tag zur Verfügung steht, sorgen dafür, dass es uns immer schwerer fällt, Dingen und Aufgaben unsere ungeteilte Aufmerksamkeit schenken zu können.
 
 
 {{<section title="Unser Ziel">}}
 Der Grundgedanke dieses Projektes ist es, diesem Umstand entgegenzuwirken und mithilfe einer Anwendung die Konzentrationsfähigkeit, aber auch die Motorik, spielerisch zu verbessern.
-Deshalb war es unser Ziel, ein Spiel zu entwickeln, das jederzeit und in kurzen Sessions gespielt und so diese Fähigkeiten Schritt für Schritt wieder trainiert werden können. Das Endprodukt was dabei entstanden ist, heißt *HexArcade*.
+Deshalb war es unser Ziel, ein Spiel zu entwickeln, das jederzeit und in kurzen Sessions gespielt und so diese Fähigkeiten Schritt für Schritt wieder trainiert werden können. Das Endprodukt, das dabei entstanden ist, heißt *HexArcade*.
 {{</section>}}
 
 {{<section title="Was ist HexArcade?">}}
