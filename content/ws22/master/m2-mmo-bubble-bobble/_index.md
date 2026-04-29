@@ -8,7 +8,7 @@ card_image = "logo.png"
 card_description = "Introducing a Massively Multiplayer Online Game with Scalable Generic Network Component, where bots and players compete in fast-paced, action-packed battles. Join one of two teams and work together to outmaneuver your opponents. With support for up to 30 players or bots in a single game, the possibilities are endless. Get ready to dominate the competition and come out on top as the ultimate champion!"
 
 source_link = "https://github.com/m3-retro-mmo/bubble-bobble"
-team = ["Katharina Blaß", "Faye Bullwinkel", "Vivienne Drongowski", "Jonas Fischer", "Mahja Sarschar", "Julian Gaibler"]
+team = ["Katharina Blaß", "Faye Bullwinkel", "Vivienne Drongowski", "Jonas Fischer", "Mahja Sarschar", "Juliana Gaibler"]
 supervisor = "Prof. Dr. Tobias Lenz"
 +++
 
@@ -106,5 +106,5 @@ Our group is made up of six developers, each with their unique abilities which i
 {{<team-member image="vivi.png" name="Vivienne Drongowski">}}
 {{<team-member image="jonas.jpg" name="Jonas Fischer">}}
 {{<team-member image="mahja.jpg" name="Mahja Sarschar">}}
-{{<team-member image="julian.jpg" name="Julian Gaibler">}}
+{{<team-member image="juliana.jpg" name="Juliana Gaibler">}}
 {{</gallery>}}
